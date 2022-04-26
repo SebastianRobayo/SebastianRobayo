@@ -1,4 +1,4 @@
-## Hi, I'm [Sebastian Robayo!] 👋
+## Hi, I'm Sebastian Robayo! 👋
 
 <!-- - 🔭 I’m currently working on [Asiste Ingenieria S.A.S](https://frontier.xyz/). -->
 <!-- - 🌱 I like to learn all the time.
@@ -15,24 +15,32 @@
 
 
 
-**Languages and Tools:**  
+### Languages and Tools:  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>  
 
-<a href="https://github.com/SebastianRobayo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianRobayo&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/SebastianRobayo">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SebastianRobayo&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
+<hr>
+
+### GitHub Stats
+
+| <img align="right" src="https://github-readme-stats.vercel.app/api?username=SebastianRobayo&show_icons=true&theme=dark&line_height=25" alt="Sebastian's github stats"/> | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianRobayo&theme=dark" width=""> |
+| --------- | --------- |
+
+***
+
+ | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianRobayo&langs_count=10&theme=dark&layout=compact"> |
+ | ----------- |
+
 
 <div align="center">
 
 ### I hope you like my repositories! ❤️
 
 </div>
-.
