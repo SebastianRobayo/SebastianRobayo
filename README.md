@@ -41,6 +41,7 @@
 
 <div align="center">
 Youtube Channel: https://www.youtube.com/channel/UCQBfzBbD2BpFkVDxTcORQsQ
+Linkedln: https://www.linkedin.com/in/juan-sebastian-arias-robayo-23ab84191/
  
 ### I hope you like my repositories! ❤️
 
